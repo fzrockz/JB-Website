@@ -35,6 +35,13 @@ body {
   font-size: 1rem;
   font-display: swap;
 }
+
+.display-44 {
+  font-family: 'Rubik', sans-serif;
+  font-size: 1.5rem;
+  font-display: swap;
+}
+
 .display-4 > .mbr-iconfont {
   font-size: 1.6rem;
 }
@@ -101,6 +108,10 @@ body {
 }
 .btn-md {
   padding: 1rem 3rem;
+  border-radius: 3px;
+}
+.btn-md-1 {
+  padding: 3rem 4rem;
   border-radius: 3px;
 }
 .btn-lg {
@@ -440,7 +451,9 @@ body {
   border-color: #ffffff;
 }
 .text-primary {
-  color: #149dcc !important;
+  /*color: #149dcc !important;*/
+  color: #187965 !important;
+  
 }
 .text-secondary {
   color: #ff3366 !important;
@@ -1143,7 +1156,7 @@ section.lazy-placeholder:after {
 .cid-shYC7wqRHI {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+  background-image: url("../../../assets/images/conference.jpg");
 }
 .cid-shYC7wqRHI P {
   color: #767676;
@@ -4614,7 +4627,7 @@ section.lazy-placeholder:after {
 .cid-rBGuk0S4Qw {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/mbr-1920x1285.jpg");
+  background-image: url("../../../assets/images/lady-justice-wallpapers.jpg");
 }
 .cid-rBGuk0S4Qw .mbr-text,
 .cid-rBGuk0S4Qw .mbr-section-btn {
@@ -6119,7 +6132,7 @@ section.lazy-placeholder:after {
 .cid-rCwjMcNdEF {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/mbr-1920x1079.jpg");
+  background-image: url("../../../assets/images/469164.jpg");
 }
 .cid-rCwjMcNdEF .media-container-row {
   flex-direction: row-reverse;
@@ -6629,7 +6642,7 @@ section.lazy-placeholder:after {
 .cid-rBGvcakvut {
   padding-top: 120px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/74906-16051421320042335001-2-1024x768.jpg");
+  background-image: url("../../../assets/images/20190305-213811-largejpg.jpg");
 }
 .cid-rCwBrV8ZYd {
   padding-top: 45px;
@@ -16858,7 +16871,7 @@ section.lazy-placeholder:after {
 .cid-shYkqe59n9 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-image: url("../../../assets/images/benjamin-child-gwe0dlvd9e0-unsplash-2-2000x1333.jpg");
+  background-image: url("../../../assets/images/conf-room-2.jpg");
 }
 .cid-shYkqe59n9 .mbr-section-subtitle {
   color: #767676;
@@ -17018,7 +17031,7 @@ section.lazy-placeholder:after {
 .cid-shYkqjFkcr {
   padding-top: 45px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/benjamin-child-gwe0dlvd9e0-unsplash-2-2000x1333.jpg");
+  background-image: url("../../../assets/images/conf-room-2.jpg");
 }
 .cid-shYkqjFkcr P {
   color: #767676;
